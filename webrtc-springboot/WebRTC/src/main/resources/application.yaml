@@ -1,0 +1,5 @@
+server:
+  ssl:
+    key-store: classpath:www.cqnu.top.jks
+    key-store-password: 93cd6v9026076k
+    keyStoreType: JKS
